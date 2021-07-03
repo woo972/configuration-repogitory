@@ -10,4 +10,4 @@ spring:
     driver-class-name: org.h2.Driver
     url: jdbc:h2:mem:testdb
     username: sa
-    password: 1234
+    password: '{cypher}5a7a4c014ba59e068e776ea4e8b1a00ee761d723517cfebb519154ccac44a7d6'
