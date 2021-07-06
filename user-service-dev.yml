@@ -1,6 +1,6 @@
 token:
   expiration_time: 86400000  # 1Day
-  secret: 1234
+  secret: '{cipher}AQAIcWYY4ELjYv1OYEfLjeNG3beH+NLcYen644NzZC8b0SRi2ry7W2UuQP2l+xYX0NgTUmsXrEVO3yGrg4j3LKmNLkFDS6aee2LZL6Y8iDcpg8TYD7hRuYVwkNYzNXX8JdFBFvc3VoI7+3uf/2eW5xg6gZTq8Y+Embb9mhGYY3QSvrSkkF4PcRsLPrFT0RbHotdyABcrDoDGyl0ip9WAGlYsxTEYj6cO3iwYmu8itwjDrkPcERP9ddZykbWheXe/aqWGAeKIYemdcd9u5tL5j5jXL/CJmB0lelgVplB7of+CXVf1x9cMBMNvrPmnYLyb+pOfAX2VxweJ4vZUjEttFcD9E6ET5dhGX+31otqHAOx7MCFEn0Jh4XXfrmJrhFadW7U='
 
 gateway:
   ip: 192.168.1.4
